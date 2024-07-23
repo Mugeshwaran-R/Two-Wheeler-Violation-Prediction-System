@@ -32,11 +32,11 @@ Here are examples of images processed by the model along with their predicted ou
 
 #### Original Image
 
-![Original Image](images/original_image.jpg)
+![Original Image](images/original.png)
 
 #### Predicted Image
 
-![Predicted Image](images/predicted_image.jpg)
+![Predicted Image](images/detected.png)
 
 **Predicted Output**:
 - Number of persons: 2
@@ -47,7 +47,7 @@ Here are examples of images processed by the model along with their predicted ou
 
 Here is an example video showing the real-time predictions made by the model:
 
-![Prediction Video](videos/prediction_video.mp4)
+![Prediction Video](videos/output_video.mp4)
 
 ## Conclusion
 
