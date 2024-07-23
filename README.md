@@ -18,6 +18,27 @@ The Helmet Detection System leverages YOLOv5 to accurately detect helmets and ri
 
 The dataset used in this project was created using Roboflow, a powerful tool for generating and managing datasets for machine learning projects. The images were manually annotated and labeled to include riders with helmets, riders without helmets, and the number of riders on a vehicle.
 
+### Dataset Preparation Steps
+
+1. **Source Images**
+    - Total Images: 647
+    - Classes: 3 (including riders with helmets, riders without helmets, and others)
+
+2. **Train/Test Split**
+    - Training Set: 453 images
+    - Validation Set: 130 images
+    - Testing Set: 64 images
+
+3. **Preprocessing**
+    - Auto-Orient: Applied
+    - Resize: Images were resized to 640x640 pixels
+
+4. **Augmentation**
+    - Saturation: Adjusted between -25% and +25%
+    - Noise: Added up to 1.05% of pixels
+
+The preprocessing and augmentation steps were essential to improve the model's robustness and performance.
+
 ## Key Functions
 
 - **Training**: The model is trained using the YOLOv5 framework on a custom dataset.
