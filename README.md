@@ -39,6 +39,12 @@ The dataset used in this project was created using Roboflow, a powerful tool for
 
 The preprocessing and augmentation steps were essential to improve the model's robustness and performance.
 
+### Annotated Images
+
+![Original Image](images/original.png)
+
+![Original Image](images/original.png)
+
 ## Key Functions
 
 - **Training**: The model is trained using the YOLOv5 framework on a custom dataset.
@@ -46,8 +52,6 @@ The preprocessing and augmentation steps were essential to improve the model's r
 - **Saving Frames**: Frames where specific conditions are met (e.g., riders without helmets or overloaded vehicles) are saved for further analysis.
 
 ## Example Output
-
-### Detected Image and Output
 
 Here are examples of images processed by the model along with their predicted outputs:
 
