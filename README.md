@@ -47,7 +47,7 @@ Here are examples of images processed by the model along with their predicted ou
 
 Here is an example video showing the real-time predictions made by the model:
 
-[![Video Detection](path/to/video_thumbnail.jpg)]([https://www.youtube.com/watch?v=your_video_id](https://drive.google.com/file/d/1uJlqjyKeLf5UAgiBZ-DYRwHqWHtpExPl/view?usp=sharing))
+[![Video Detection](images/thumbnail.png)]([https://www.youtube.com/watch?v=your_video_id](https://drive.google.com/file/d/1uJlqjyKeLf5UAgiBZ-DYRwHqWHtpExPl/view?usp=sharing))
 
 ## Conclusion
 
