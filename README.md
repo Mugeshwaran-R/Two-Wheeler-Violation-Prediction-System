@@ -41,9 +41,7 @@ The preprocessing and augmentation steps were essential to improve the model's r
 
 ### Annotated Images
 
-![Original Image](images/original.png)      ![Original Image](images/original.png)
-
-
+![Original Image](images/original.png)                      ![Original Image](images/original.png)
 
 ## Key Functions
 
