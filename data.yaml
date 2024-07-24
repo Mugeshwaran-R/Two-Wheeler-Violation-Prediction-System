@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['person', 'rider_with_helmet', 'rider_without_helmet']
+
+roboflow:
+  workspace: mugesh
+  project: saferideai
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mugesh/saferideai/dataset/2
