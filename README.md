@@ -62,9 +62,8 @@ Here are examples of images processed by the model along with their predicted ou
 ![Predicted Image](images/detected.png)
 
 **Predicted Output**:
-- Number of persons: 2
-- Riders without helmets: 1
-- Riders with helmets: 1
+- Number of persons: 4
+- Rider without helmets: 1
 
 ### Video of Predictions
 
