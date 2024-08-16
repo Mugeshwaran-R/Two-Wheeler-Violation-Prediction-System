@@ -22,7 +22,7 @@ The dataset used in this project was created using Roboflow, a powerful tool for
 
 1. **Source Images**
     - Total Images: 647
-    - Classes: 3 (including riders with helmets, riders without helmets, and others)
+    - Classes: 3 (including rider with helmet, rider without helmet, and person)
 
 2. **Train/Test Split**
     - Training Set: 453 images
@@ -63,7 +63,7 @@ Here are examples of images processed by the model along with their predicted ou
 
 **Predicted Output**:
 - Number of persons: 4
-- Rider without helmets: 1
+- Rider without helmet: 1
 
 ### Video of Predictions
 
